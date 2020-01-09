@@ -7,7 +7,7 @@ A startup called Sparkify wants to analyze the data they've been collecting on s
 The project aims to create an Apache Cassandra database which can create queries on song play data. The project involves modelling of data by creating tables in Apache Cassandra, and will be tested by running queries provided by the analytics team from Sparkify. An ETL pipeline that transfers data from a set of CSV files within a directory to create a streamlined CSV file to model and insert data into Apache Cassandra tables has already been implemented.
 
 ## Event Data
-![](images/event_datafile.jpg)
+![](images/event_datafile.JPG)
 
 ## Results
 1. Give me the artist, song title and song's length in the music app history that was heard during sessionId = 338, and itemInSession = 4
